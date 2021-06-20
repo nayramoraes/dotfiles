@@ -1,0 +1,116 @@
+[global_config]
+  window_state = hidden
+  sticky = True
+  title_transmit_fg_color = "#08d383"
+  title_transmit_bg_color = "#ffffff"
+  title_receive_fg_color = "#26d7ad"
+  title_receive_bg_color = "#ffffff"
+  title_inactive_fg_color = "#197f48"
+  title_inactive_bg_color = "#ffffff"
+  enabled_plugins = LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler, TerminatorThemes
+  title_use_system_font = False
+  title_font = DaddyTimeMono Nerd Font 12
+[keybindings]
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_color = "#002b36"
+    background_darkness = 1.0
+    cursor_color = "#aaaaaa"
+    cursor_color_fg = False
+    font = FiraCode Nerd Font weight=450 14
+    foreground_color = "#839496"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    palette = "#000000:#cd0000:#00cd00:#cdcd00:#0000ee:#cd00cd:#00cdcd:#e5e5e5:#7f7f7f:#ff0000:#00ff00:#ffff00:#5c5cff:#ff00ff:#00ffff:#ffffff"
+    use_system_font = False
+  [[IC_Green_PPL]]
+    background_color = "#ffffff"
+    cursor_color = "#42ff58"
+    foreground_color = "#000000"
+    palette = "#1f1f1f:#fb002a:#339c24:#659b25:#149b45:#53b82c:#2cb868:#e0ffef:#032710:#a7ff3f:#9fff6d:#d2ff6d:#72ffb5:#50ff3e:#22ff71:#daefd0"
+  [[ayu_light]]
+    cursor_color = "#ff6a00"
+    foreground_color = "#ffffff"
+    palette = "#000000:#ff3333:#86b300:#f29718:#41a6d9:#f07178:#4dbf99:#ffffff:#323232:#ff6565:#b8e532:#ffc94a:#73d8ff:#ffa3aa:#7ff1cb:#ffffff"
+  [[After Dark]]
+    icon_bell = False
+    background_color = "#10111b"
+    background_darkness = 0.28
+    cursor_color = "#aaaaaa"
+    cursor_color_fg = False
+    font = FantasqueSansMono Nerd Font 15
+    foreground_color = "#839496"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    palette = "#2e3436:#ef4a9e:#00d2bc:#e7ca7a:#9399fa:#ca5bcc:#86d079:#d3d7cf:#555753:#ef4a9e:#00d2bc:#e7ca7a:#9399fa:#ca5bcc:#86d079:#eeeeec"
+    use_system_font = False
+  [[BirdsOfParadise]]
+    icon_bell = False
+    background_color = "#2a1f1d"
+    background_darkness = 0.28
+    cursor_color = "#573d26"
+    font = FantasqueSansMono Nerd Font 15
+    foreground_color = "#e0dbb7"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    palette = "#573d26:#be2d26:#6ba18a:#e99d2a:#5a86ad:#ac80a6:#74a6ad:#e0dbb7:#9b6c4a:#e84627:#95d8ba:#d0d150:#b8d3ed:#d19ecb:#93cfd7:#fff9d5"
+    use_system_font = False
+  [[Bloody]]
+    icon_bell = False
+    background_color = "#1e1f29"
+    background_darkness = 0.28
+    cursor_color = "#f9dc5c"
+    cursor_color_fg = False
+    font = FantasqueSansMono Nerd Font 15
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    palette = "#2e3436:#ff512f:#b2ffa9:#fffd82:#3185fc:#dd2476:#66d7d1:#f2efea:#555753:#ff512f:#b2ffa9:#fffd82:#3185fc:#dd2476:#66d7d1:#f2efea"
+    use_system_font = False
+  [[Chalk]]
+    icon_bell = False
+    background_color = "#fcf4dc"
+    background_darkness = 0.28
+    cursor_color = "#536870"
+    cursor_color_fg = False
+    font = FantasqueSansMono Nerd Font 15
+    foreground_color = "#536870"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    palette = "#56595c:#c94c22:#85981c:#b4881d:#2e8bce:#d13a82:#32a198:#d3d0c9:#45484b:#bd3613:#738a04:#a57705:#2176c7:#c61c6f:#259286:#c9c6bd"
+    use_system_font = False
+  [[WildCherry]]
+    icon_bell = False
+    background_color = "#ffffff"
+    background_darkness = 0.0
+    background_type = transparent
+    cursor_color = "#ffffff"
+    cursor_color_fg = False
+    font = FiraCode Nerd Font weight=450 15
+    foreground_color = "#ffffff"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    palette = "#f05959:#f9a6a6:#ffd1d1:#ffd1d1:#ffd1d1:#ffd1d1:#ffd1d1:#ffd1d1:#ffffff:#ff6d6d:#f05959:#f05959:#f05959:#f05959:#f05959:#f05959"
+    use_system_font = False
+    bold_is_bright = True
+  [[Violet Light]]
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+  [[Desert]]
+    cursor_color = "#aaaaaa"
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = WildCherry
+[plugins]
