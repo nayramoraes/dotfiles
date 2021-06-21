@@ -96,7 +96,7 @@
     show_titlebar = False
     scrollbar_position = hidden
     scrollback_infinite = True
-    palette = "#f05959:#f9a6a6:#ffd1d1:#ffd1d1:#ffd1d1:#ffd1d1:#ffd1d1:#ffd1d1:#ffffff:#ff6d6d:#f05959:#f05959:#f05959:#f05959:#f05959:#f05959"
+    palette = "#dc8add:#fffba8:#ffffff:#ffd1d1:#ff64af:#f9d0ff:#ff3f99:#ffffff:#ff919d:#ffbaba:#fa02ad:#fa02ad:#ffaed5:#ffffff:#ffbaba:#fa02ad"
     use_system_font = False
     bold_is_bright = True
   [[Violet Light]]
