@@ -1,3 +1,7 @@
+# Serial Experiments Rice
+
+
+
 These are my **[i3-gaps](https://github.com/Airblader/i3)** and **[i3-blocks](https://github.com/vivien/i3blocks)** *Serial Experimental Lain* dotfiles. There is also **[rofi](https://github.com/davatorium/rofi)**, **[dunst](https://github.com/dunst-project/dunst)**, **[terminator](https://terminator-gtk3.readthedocs.io/en/latest/)** and **[picom](https://github.com/yshui/picom)** configs. I uploaded some fonts which I like and some that are necessary for my i3-blocks. All of them are from [Font Awesome](https://fontawesome.com/). I based my work on [da-edra](https://github.com/da-edra/dotfiles) dotfiles. 
 Currently, I'm using [dracula theme](https://draculatheme.com/dunst) for dunst, but soon I will change it. 
 
