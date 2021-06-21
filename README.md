@@ -7,12 +7,12 @@ Currently, I'm using [dracula theme](https://draculatheme.com/dunst) for dunst, 
 
 
 **Primary screen**
-![image](https://user-images.githubusercontent.com/68712678/122800228-12aba480-d299-11eb-9813-728ca8467329.png)
-![image](https://user-images.githubusercontent.com/68712678/122789583-d6267b80-d28d-11eb-9152-029fbbefb2c9.png)
+![image](https://user-images.githubusercontent.com/68712678/122808771-ad10e580-d2a3-11eb-9819-ee04a65ac788.png)
+![image](https://user-images.githubusercontent.com/68712678/122808986-e9444600-d2a3-11eb-8ae1-902c831e7608.png)
+
 
 **Secondary screen**
-![image](https://user-images.githubusercontent.com/68712678/122800872-d593e200-d299-11eb-8321-8b8fb1b7fba3.png)
-
+![image](https://user-images.githubusercontent.com/68712678/122808874-cade4a80-d2a3-11eb-8f69-c61b4de53242.png)
 
 
 **[i3-blocks](https://github.com/vivien/i3blocks)**: 
