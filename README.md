@@ -7,7 +7,7 @@ Currently, I'm using [dracula theme](https://draculatheme.com/dunst) for dunst, 
 
 
 **Primary screen**
-![image](https://user-images.githubusercontent.com/68712678/122808771-ad10e580-d2a3-11eb-9819-ee04a65ac788.png)
+![image](https://user-images.githubusercontent.com/68712678/123014141-f17fac80-d39b-11eb-92df-59da55c100ef.png)
 ![image](https://user-images.githubusercontent.com/68712678/122808986-e9444600-d2a3-11eb-8ae1-902c831e7608.png)
 
 
